@@ -2,9 +2,9 @@
 A method to find near-duplicate images in an image collection.  
 
 ## Image Correlation Coefficient
-The metrics, coefficient of correlation measures the degree of correlation between two images. Correlation is the method establishing the degree of probability that a linear relationship exists between two measured quantities.  
+The metrics, coefficient of correlation measures the degree of correlation between two images. Correlation is the method establishing the degree of probability that a linear relationship exists between two measured quantities.
 ### Correlation Coefficient Formula:
-![formula](https://ibb.co/9gHF3g9)  
+![](https://ibb.co/9gHF3g9)  
 The correlation co-efficient has value  
 1. r = 1 if two images are absolute identical  
 2. r = 0 if they are completely uncorrelated  
